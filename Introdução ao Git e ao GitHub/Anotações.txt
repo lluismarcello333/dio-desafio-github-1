@@ -1,0 +1,31 @@
+*Link para download do GIT: https://git-scm.com/downloads
+*O GIT BASH é um terminal estendido para otimizar o uso do GIT.
+
+¨Git e GitHub
+
+Comandos para o git
+*dir = Listar as pastas
+*ls = Listar pastas
+*ls -a = Listar pastas ocultas
+*cd = change directory/ selecionar pasta específica
+*cd .. = Voltar uma pasta
+*cls = clear sreen / Limpar a tela
+*mkdir = make directory/ Criar pasta
+*del = Deletar arquivos
+*rmdir = Remover pasta
+*openssl sha1 (pasta) = Criar código de 40 dígitos
+*pwd = Mostra o caminho da pasta
+*cat = Mostra o conteúdo da pasta
+*eval = inicializar o ssh.agent
+*git init = inicialiazar um repositório
+*git config --global = especificar o autor usando "user.email" e "user.name"
+*git add = adiciona o repositório no "staged"
+*mv = mover diretório
+*git commit -m = Comitar
+*git push origin master = Empurrar diretótrio para o github
+*git pull origin master  = Trazer diretório para sua máquina
+*git clone (url) = Baixar repositório para minha máquina
+*git remote -v = Mostra de onde veio os repositórios do github
+
+*O que é SHA1?
+A sigla SHA1 significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA). A encriptação gera um conjunto de characteres indentificador de 40 dígitos. É uma forma curta de representar um arquivo.
