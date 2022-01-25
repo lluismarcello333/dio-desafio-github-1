@@ -16,7 +16,7 @@
 ## Vetores e Matrizes
 
 ### *O que são?
-São estruturas de dados simoles que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
+São estruturas de dados similares que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
 ### *O que é vetor ou array uni-dimensional?
 É uma variável que armazena várias vaqriáveis do mesmo tipo. O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo.
 *O que é matriz ou array multi-dimensional?
